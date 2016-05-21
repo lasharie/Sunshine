@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="api_key">57c3caef97ef1376a6df1855a99284ee</string>
+</resources>
